@@ -1,0 +1,21 @@
+# 模型权重及大文件
+models/
+qwen-grpo-gsm8k/
+qwen-grpo-gsm8k-final/
+
+# 数据集
+data/
+
+# 运行结果
+result/
+*.png
+*.json
+
+# 虚拟环境
+venv/
+.venv/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
