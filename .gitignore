@@ -8,7 +8,6 @@ data/
 
 # 运行结果
 result/
-*.png
 *.json
 
 # 虚拟环境
